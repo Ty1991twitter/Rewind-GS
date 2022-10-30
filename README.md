@@ -1,6 +1,6 @@
 # RewindGS
 
-Shitty attempt for making an open source fortnite gameserver. Not sure how far I'll get with this because I have no experience at all with this type of stuff and have no real idea on what to do
+Shitty attempt for making an open source fortnite gameserver. Not sure how far I'll get with this because I have very little experience at all with this type of stuff and have no real idea on what to do
 
 A lot of this code (specifically pattern scanning and function hooking) comes from Guided Hacking youtube tutorials , you can find them by searching up on Youtube or on Google "Guided Hacking" 
 
