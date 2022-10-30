@@ -12,4 +12,4 @@ Not explaining rn. Figure it out yourself until I make a proper tutorial.
 
 ## How to inject?
 
-- [Use UE4Injector]{https://github.com/Zebratic/UE4Injector} 10/10 injector. 
+- {Use UE4Injector}[https://github.com/Zebratic/UE4Injector] 10/10 injector. 
