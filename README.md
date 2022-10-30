@@ -13,3 +13,13 @@ Not explaining rn. Figure it out yourself until I make a proper tutorial.
 ## How to inject?
 
 - Use [UE4Injector](https://github.com/Zebratic/UE4Injector) 10/10 injector. 
+
+## Faq
+
+# Will there be a Rewind Private Server?
+
+- Yeah, but until then I reccomend that you use [Lawin Server](https://github.com/Lawin0129/LawinServer)
+
+# Android and Ios Support?
+
+- Gonna work on that in the future
