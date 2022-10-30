@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Other">
+      <UniqueIdentifier>{2141365b-0ab8-4929-bff7-1f38894c04a6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Other\Pch">
+      <UniqueIdentifier>{17b3def4-c6fd-4df5-82ce-f9a73996e605}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UE4">
+      <UniqueIdentifier>{2685f29c-bf5b-472f-89aa-56c290afc498}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UE4\Hooks">
+      <UniqueIdentifier>{fbb03382-6592-4d63-a00d-3d018bfe77c5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UE4\Patterns">
+      <UniqueIdentifier>{ce13b841-6da7-4392-8d17-4a4ff511b64c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="pch.h">
+      <Filter>Other\Pch</Filter>
+    </ClInclude>
+    <ClInclude Include="framework.h">
+      <Filter>Other</Filter>
+    </ClInclude>
+    <ClInclude Include="patterns.h">
+      <Filter>UE4\Patterns</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="pch.cpp">
+      <Filter>Other\Pch</Filter>
+    </ClCompile>
+    <ClCompile Include="dllmain.cpp" />
+  </ItemGroup>
+</Project>
