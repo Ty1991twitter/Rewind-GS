@@ -20,6 +20,7 @@ Not explaining rn. Figure it out yourself until I make a proper tutorial.
 
 - Yeah, but until then I reccomend that you use [Lawin Server](https://github.com/Lawin0129/LawinServer)
 
+- Skidded Lawin until I get the time to actually make a private server 💀 [Rewind PS](https://github.com/Ty1991twitter/Rewind-PS)
 # Android and Ios Support?
 
 - Gonna work on that in the future
